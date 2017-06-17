@@ -1,0 +1,10 @@
+{
+  "name": "price-pred",
+  "version": "0.0.1",
+  "dependencies": {
+    "bunyan": "^1.8.10",
+    "csv-stringify": "^1.0.4",
+    "extract-zip": "=1.6.0",
+    "nightmare": "^2.10.0"
+  }
+}
