@@ -26,6 +26,7 @@
 **/msg_gen
 **/srv_gen
 ROS_NOBUILD
+node_modules
 
 # ROS generated
 **/src/*/msg/_*.py
